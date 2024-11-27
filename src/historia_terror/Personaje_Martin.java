@@ -5,7 +5,7 @@ public class Personaje_Martin {
 	public static void main(String[] args) {
 		//personaje//
 		System.out.print("Hoa mi nombre es José Joestar y tengo 26 años , tengo una estatura 1,93cm "
-				+ "mi fisico es bastante impresionante tengo una rara marca de nacimiento en forma de estrella en la parte trasera del hombro"
+				+ "Tengo el pelo marron  con ojos color azules con un estilo de ropa de 1912 con un  fisico es impresionante tengo una rara marca de nacimiento en forma de estrella en la parte trasera del hombro"
 				+ "No se donde esta mi padre y si mi abuelo sigue vivo");
 
 	}
