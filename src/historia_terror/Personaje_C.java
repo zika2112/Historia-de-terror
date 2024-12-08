@@ -14,6 +14,11 @@ public class Personaje_C {
 		System.out.println("Mi vestimenta esta conformada por una camiseta de la época, de tirantes sin mangas y de color azul \n"
 				+"pantalones largos de color azul y una botas altas marrones de cuero junto a unas hombreras de cuero para mi proteccion");
 		
+		System.out.println("Mis aficiones son : jugar rugby y jugar con mi perro dany \n");
+		
+		System.out.println("Mi fase tipica es: OHH MY GOODDD!! \n");
+		
+		System.out.println("Mi sueño es ser un cabellero heredero digno de mi fortuna familiar");
 		
 	}
 	
