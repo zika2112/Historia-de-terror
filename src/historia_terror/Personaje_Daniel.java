@@ -9,6 +9,7 @@ public class Personaje_Daniel {
 		System.out.println(
 				"Tengo una rara marca de nacimiento en forma de estrella en la parte trasera de mi hombro izquierdo "
 						+ "y un buen físico para mi edad");
+		System.out.println("Actitud: Soy bastante callado y serio");
 		System.out.println("Frase típica: Yare Yare Daze");
 		System.out.println(
 				"Llevo puesto una camiseta verde, una gorra negra, una chaqueta negra que llega hasta mis rodillas, "
