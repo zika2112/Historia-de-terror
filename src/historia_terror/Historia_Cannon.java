@@ -9,6 +9,8 @@ public class Historia_Cannon {
 		System.out.println("Narrador:”Durante el suceso y mientras el carruaje empezó a hundirse en el lago, de repente una extraña figura se acerca al lugar del accidente no con la intención de ayudar si no de sacar provecho de la circunstancia para sí mismo. ");
 		
 		System.out.println("!!: (Que suerte la mia, un accidente sin testigos, voy a ver que puedo sacar de aquí)");
+		
+		
 	}
 
 }
