@@ -63,7 +63,7 @@ public class Historia_Cannon {
 				+ "Se encuentra gravemente enfermo casi al borde de la muerte, en una circunstancia algo sospechosa ya que hasta la fecha Jonny había gozado de una buena salud a lo largo de su  vida.”\r\n"
 				);
 		System.out.println("Dario: (No le debe de quedar mucho tiempo al estupido del viejo, ese veneno que le di debería matarlo en pocos días). *Dice mientras le da una ‘medicina’ a Jonny*\r\n");
-		
+		System.out.println("Narrador:”Jotaru a sabiendas de la mala salud de su padre va a visitar lo a su habitación, ya que sospecha que puede ser culpa de Dario y que el tuviera algo que ver con esto”.");
 	}
 
 }
