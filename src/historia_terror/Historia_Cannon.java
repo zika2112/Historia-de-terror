@@ -42,6 +42,14 @@ public class Historia_Cannon {
 		
 		System.out.println("Jotaru: “Hmm, Un placer conocerte así que tu eres Dario mi nuevo hermano. ”\r\n");
 		System.out.println("Dario:(¿Este es el inepto que me hace competencia por la herencia familiar? Viendo lo de cerca no creo que sea muy difícil llevar me la herencia de sus manos), “Un placer conocerte Jotaru ya que seremos hermanos espero que nos llevemos bien y que podamos ser como mejores amigos.”");
+		System.out.println("Jonny:”Bien Dario has llegado justo a tiempo es la hora de comer.Vamos todos al comer para poder conocernos mejor.”\r\n"
+				+ "\r\n"
+				+ "Narrador:”Al transcurrir la cena y todo estar aparentemente en orden,la familia Joestar junto con su nuevo integrante empiezan a convivir juntos, pasando así las semanas y Jotaru cada vez sospechaba más de unas oscuras intenciones detrás de los actos de Dario.”\r\n"
+				+ "\r\n"
+				+ "\r\n"
+				+ "Narrador:”Pronto las sospechas de Jotaru se harían más ciertas al ver como Dario empezaría a ganarse el favoritismo de su propio padre por encima del de él, resultando en varias disputas entre hermanos que resultan en una pelea cuando Jonny no estuviese en casa.”\r\n"
+				+ "");
+		
 	}
 
 }
