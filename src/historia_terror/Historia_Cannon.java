@@ -136,6 +136,7 @@ public class Historia_Cannon {
 		System.out.println("José :”¿Qué quieres decir?” *Pregunta con expresión de duda *");
 		System.out.println("Jotaru: “Este rancho pertenecía a una familia la cual desapareció de la noche a la mañana sin rastro alguno y dicen que sus almas siguen vagando por aquí”");
 		System.out.println("José: “Eso no parece más que una historia sin sentido, ¿De verdad crees en esas historias?”");
+		System.out.println("Jotaru: “No, pero hay algo que va muy mal aquí y no me da muy buena espina, creo que Dario tiene la culpa de todo.”");
 	}
 
 }
