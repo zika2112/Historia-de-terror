@@ -91,6 +91,7 @@ public class Historia_Cannon {
 		System.out.println("Jotaru: *Cough cough* “¿Qué me has hecho?”");
 		System.out.println("José:” Te he dado la habilidad de poseer el chi al abrirse tus meridianos, ahora solo queda enseñarte a manejarlo, empecemos”\r\n"
 				+ "");
+		System.out.println("Narrador:”Mientras Jotaru se encontraba en su entrenamiento con José, Dario se queda con Jonny para poder seguir envenenando y tratar de acelerar su muerte”");
 	}
 
 }
