@@ -103,6 +103,7 @@ public class Historia_Cannon {
 		System.out.println("Dario: “¿Qué es esto?” *Coje una máscara de obsidiana que había dentro de uno de los cajones*\r\n"
 				+ "“Parece una máscara muy antigua, ¿Me pregunto para qué servirá?”\r\n"
 				+ "");
+		System.out.println("Narrador: “En ese mismo momento una rata salta a la cara de Dario arañando su cara y haciendo que su sangre caiga en la máscara, una vez que la sangre cae en la máscara esta empieza a hacer extraños movimientos y salta a la cabeza de Darío incrustandose unos pinchos por la parte de atrás de su cabeza”");
 	}
 
 }
