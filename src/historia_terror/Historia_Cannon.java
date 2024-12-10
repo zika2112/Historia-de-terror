@@ -52,6 +52,7 @@ public class Historia_Cannon {
 		System.out.println("Jotaru:”Dario estoy cansado de esto, estoy harto de que me quites protagonismo en mi propia, sobre la atención de mi padre y sobre todo lo que he tenido estos últimos 15 años esto se acaba aquí y ahora.”*Se acerca a en posición de combate hacia Dario y le acierta un puñetazo en la cara que parece no surtir efecto.*");
 		System.out.println("Dario:”¿Eso es todo lo que tienes JOJO?”*Dice de forma provocadora y le devuelve el golpe*");
 		System.out.println("Narrador:”Esto hizo que Jotaru se enojara aún más con él ya que JOJO es el apodo que su padre le suele decir por cariño. ”");
+		System.out.println("Jotaru:”Como te atreves de usar ese apodo para referirse a mi saca esa palabra de tu sucia boca” *Le lanza otra serie de golpes a Dario él logra esquivar los y someter a Jotaru en el piso*.");
 	}
 
 }
