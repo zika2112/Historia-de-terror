@@ -87,6 +87,7 @@ public class Historia_Cannon {
 		System.out.println("José:”Vale primero tengamos un sparring para ver cómo de bueno eres peleando”*se posiciona en una pose de boxeo*”Ponte en posición JOJO empezamos ahora”");
 		System.out.println("Jotaru: “¡Bien!” *Se posiciona en forma de combate*");
 		System.out.println("Narrador: “Mientras estaban en su pelea José se percata de que la respiración de Jotaru empezaba a ser forzada y lo aprovecha para golpearlo con chi en el diafragma.”");
+		System.out.println("José:(Su respiración es bastante forzada)” Bueno JOJO tienes una abertura en la derecha”*con la abertura que tenía Jotaru en la derecha le da un golpe con el dedo en el diafragma viendo como JOJO cae al suelo tosiendo*");
 	}
 
 }
