@@ -50,6 +50,7 @@ public class Historia_Cannon {
 				+ "Narrador:”Pronto las sospechas de Jotaru se harían más ciertas al ver como Dario empezaría a ganarse el favoritismo de su propio padre por encima del de él, resultando en varias disputas entre hermanos que resultan en una pelea cuando Jonny no estuviese en casa.”\r\n"
 				+ "");
 		System.out.println("Jotaru:”Dario estoy cansado de esto, estoy harto de que me quites protagonismo en mi propia, sobre la atención de mi padre y sobre todo lo que he tenido estos últimos 15 años esto se acaba aquí y ahora.”*Se acerca a en posición de combate hacia Dario y le acierta un puñetazo en la cara que parece no surtir efecto.*");
+		System.out.println("Dario:”¿Eso es todo lo que tienes JOJO?”*Dice de forma provocadora y le devuelve el golpe*");
 	}
 
 }
