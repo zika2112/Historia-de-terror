@@ -115,6 +115,7 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "Narrador:”Cuando el sirviente va a socorrer al primer sirviente amordazado siente como una silueta oscura está detrás de él.”\r\n"
 				+ "");
+		System.out.println("Dario:”Has caído en la trampa del sirviente ingenuo ¡¡AHORA MUEREEE!!”*Dario le arranca la cabeza al sirviente que ha caído en la trampa de un solo golpe usando su nueva fuerza adquirida y haciendo que la sangre de su víctima caiga sobre la máscara que tiene el rehén puesta encima*");
 		
 	}
 
