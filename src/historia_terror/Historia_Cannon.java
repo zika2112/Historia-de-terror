@@ -100,6 +100,9 @@ public class Historia_Cannon {
 				+ "");
 		System.out.println("Dario:”No tengo más opción que buscar algo en ese sótano viejo y mugroso, no me gusta nada esta parte del rancho, pero si quiero encontrar una manera de vencer a Jotaru puede que la encuentre ahí abajo”.");
 		System.out.println("Narrador: “De repente Dario se da cuenta de que hay unos cajones en una parte del sótano y decide mirar allí.”");
+		System.out.println("Dario: “¿Qué es esto?” *Coje una máscara de obsidiana que había dentro de uno de los cajones*\r\n"
+				+ "“Parece una máscara muy antigua, ¿Me pregunto para qué servirá?”\r\n"
+				+ "");
 	}
 
 }
