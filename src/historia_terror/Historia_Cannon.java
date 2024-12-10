@@ -28,6 +28,10 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "Narrador:”Como lo prometió Jonny envió a sus criados a buscar a Dario y llevarlo al rancho Joestar donde conocería a Jotaru siendo el inicio de esta macabra historia”\r\n");
 		System.out.println("Dario: (Bien, ahora con mi padre muerto nada me impide lograr mi meta de poder adueñarme del mundo)*Sube al carruaje y se dirige al rancho Joestar*\r\n");
+		System.out.println("Jonny:”(Ya debe de venir Dario en camino al rancho le avisare a Jotaru para que pueda presentarle al hijo de quien le salvó la vida )”\r\n"
+				+ "\r\n"
+				+ "Jonny : Jotaru, prepárate para recibir a tu nuevo hermano.”\r\n"
+				);
 		
 	}
 
