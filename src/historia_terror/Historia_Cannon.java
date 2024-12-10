@@ -132,7 +132,7 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "Narrador: “Jotaru y José llegan al rancho por la noche pero se dan cuenta de que algo raro está pasando, el ambiente parece más lúgubre y tenebroso que las demás noches.”\r\n"
 				+ "");
-		
+		System.out.println("Jotaru: “Algo va mal aquí, este sitio está noche es más rara que las demás”");
 		
 	}
 
