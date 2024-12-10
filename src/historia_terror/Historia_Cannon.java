@@ -41,6 +41,7 @@ public class Historia_Cannon {
 		System.out.println("Jonny: “Vamos Jotaru, presentate como se debe.”\r\n");
 		
 		System.out.println("Jotaru: “Hmm, Un placer conocerte así que tu eres Dario mi nuevo hermano. ”\r\n");
+		System.out.println("Dario:(¿Este es el inepto que me hace competencia por la herencia familiar? Viendo lo de cerca no creo que sea muy difícil llevar me la herencia de sus manos), “Un placer conocerte Jotaru ya que seremos hermanos espero que nos llevemos bien y que podamos ser como mejores amigos.”");
 	}
 
 }
