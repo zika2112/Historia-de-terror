@@ -27,7 +27,7 @@ public class Historia_Cannon {
 				+ "Narrador: “15 años más tarde, Dorian Brando había fallecido,no sin antes enviarle un carta a Jonny diciendo le que cumpliera su promesa de cuidar a Dario en su familia”\r\n"
 				+ "\r\n"
 				+ "Narrador:”Como lo prometió Jonny envió a sus criados a buscar a Dario y llevarlo al rancho Joestar donde conocería a Jotaru siendo el inicio de esta macabra historia”\r\n");
-		
+		System.out.println("Jotaru: (Yare Yare Daze) “Está bien ahora bajo.”");
 	}
 
 }
