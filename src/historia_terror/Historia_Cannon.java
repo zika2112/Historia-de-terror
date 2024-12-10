@@ -159,6 +159,7 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "Narrador:”Después de presenciar la muerte de su padre a manos de Dario un odio profundo incapaz de seguir con la última petición de su padre Jotaru está decidido a asesinar a Dario en una última bizarra contienda”.\r\n"
 				+ "");
+		System.out.println("Jotaru:”AHORA ACABARE CONTIGO DARIO PREPÁRATE PARA MORIR EN NOMBRE DE MI PADRE JONNY JOESTAR”*Jotaru se prepara para ir a pelear contra Dario pero es detenido por Jose*");
 		
 	}
 
