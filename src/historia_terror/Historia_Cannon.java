@@ -70,6 +70,9 @@ public class Historia_Cannon {
 		System.out.println("Jotaru: “¡Maldito, cómo te atreves a hacerle eso al hombre que te ha estado cuidando durante estos 5 años!” *Dice mientras su enfado aumenta*");
 		System.out.println("Dario: “Te lo vuelvo a decir, no me importa lo que os pase a unos insectos como vosotros lo único que quiero es vuestra fortuna para poder dominar el mundo, el método es bastante efectivo, el que mató a mi padre fui yo DARIO.”\r\n"
 				+ "\r\n");
+		System.out.println("Narrador: “Una vez que Dario le confiesa esta terrible verdad, Jotaru decide ir en busca de alguien que le puede dar un antídoto para su padre y así poder ayudarlo.\r\n"
+				+ "En su búsqueda viaja al barrio más peligroso de la ciudad de Londres”\r\n"
+				+ "");
 	}
 
 }
