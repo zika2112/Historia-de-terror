@@ -19,6 +19,7 @@ public class Historia_Cannon {
 		System.out.println("Narrador:”!! logra salvar al niño, pero la mujer no corrió la misma suerte ya que la mujer yacía  inerte en el fondo del lago, al salvar al niño lo lleva donde yace ??.  ");
 		
 		System.out.println("??: “Muchas gracias por salvar a mi hijo, cómo podré alguna vez pagar este favor.”");
+		System.out.println("!!:“Deja que mi hijo se crie con el tuyo y tenga una vida normal en caso de mi muerte.”");
 	}
 
 }
