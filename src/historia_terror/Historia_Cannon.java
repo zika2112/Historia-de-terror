@@ -15,6 +15,8 @@ public class Historia_Cannon {
 		System.out.println("!!: *Fija su mirada en ??* (Mierda, sigue vivo aún después del accidente) “Está bien, les ayudaré pero tendrás que darme algo a cambio.”");
 		
 		System.out.println("??:”Por su puesto te daré lo que quieras pero por favor salva su vida te lo suplico por favor.”");
+		System.out.println("Narrador:”Después de las súplicas de ?? a !!, este accede a salvar la vida de los familiares a cambio de ganar una lujosa recompensa.”\r\n");
+		System.out.println("Narrador:”!! logra salvar al niño, pero la mujer no corrió la misma suerte ya que la mujer yacía  inerte en el fondo del lago, al salvar al niño lo lleva donde yace ??.  ");
 	}
 
 }
