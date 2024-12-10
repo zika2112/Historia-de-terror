@@ -64,6 +64,8 @@ public class Historia_Cannon {
 				);
 		System.out.println("Dario: (No le debe de quedar mucho tiempo al estupido del viejo, ese veneno que le di debería matarlo en pocos días). *Dice mientras le da una ‘medicina’ a Jonny*\r\n");
 		System.out.println("Narrador:”Jotaru a sabiendas de la mala salud de su padre va a visitar lo a su habitación, ya que sospecha que puede ser culpa de Dario y que el tuviera algo que ver con esto”.");
+		System.out.println("Jotaru: (Creo que Dario tiene algo que ver con esto,ya que estaba revisando las viejas pertenencias de mi padre y encontré la nota que el padre de Dario le envió a mi padre, describiendo los mismos síntomas de él ahora mismo. Voy a ver como esta mi padre ya que la verdadera medicina la tengo yo en mis manos ahora mismo y deseo comparar la con la que tendrá mi padre ahora mismo cerca de él.)*Jotaru mira a Dario darle una ‘medicina a Jonny’* “¡DARIO!, ya he descubierto lo que le estas haciendo a mi pobre padre.”");
+		
 	}
 
 }
