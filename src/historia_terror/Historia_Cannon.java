@@ -39,6 +39,8 @@ public class Historia_Cannon {
 		System.out.println("Narrador: “Pasados 20 minutos Dario llega al lugar.”");
 		System.out.println("Dario: (Con que este es el lugar donde me quedaré, parece una pocilga, no parecen tener mucho dinero.)\r\n");
 		System.out.println("Jonny: “Vamos Jotaru, presentate como se debe.”\r\n");
+		
+		System.out.println("Jotaru: “Hmm, Un placer conocerte así que tu eres Dario mi nuevo hermano. ”\r\n");
 	}
 
 }
