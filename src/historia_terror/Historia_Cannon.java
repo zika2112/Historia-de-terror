@@ -13,6 +13,8 @@ public class Historia_Cannon {
 		
 		System.out.println("??: *Coge a !! del brazo* “Por favor ayuda a mi hijo a mi mujer te lo ruego yo estoy bien pero por favor ayudalos a ellos.”");
 		System.out.println("!!: *Fija su mirada en ??* (Mierda, sigue vivo aún después del accidente) “Está bien, les ayudaré pero tendrás que darme algo a cambio.”");
+		
+		System.out.println("??:”Por su puesto te daré lo que quieras pero por favor salva su vida te lo suplico por favor.”");
 	}
 
 }
