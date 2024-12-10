@@ -166,6 +166,7 @@ public class Historia_Cannon {
 		System.out.println("Jotaru: “¡JOSÉ! Bien Dario prepárate para la batalla final” *Se va acercando a Dario*\r\n"
 				+ "");
 		System.out.println("Dario: “Ahh, ¿Aún tienes las agallas de acercarte a mi?”");
+		System.out.println("Jotaru: “Si no acerco a ti no te podré partir la cara” *Se lanza hacia Dario*");
 		
 	}
 
