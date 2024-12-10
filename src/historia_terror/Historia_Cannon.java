@@ -176,6 +176,9 @@ public class Historia_Cannon {
 				+ "MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA\r\n"
 				+ "");
 		System.out.println("ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ORA ");
+		System.out.println("Narrador: “En su golpe final, Dario aprovechó para arrancarle la mano a Jotaru creyendo así que tendría la victoria asegurada, pero Jotaru con el Chi de José y la última voluntad de su padre le daría el golpe de gracia a Dario matándolo en el acto”\r\n"
+				+ "");
+		
 	}
 
 }
