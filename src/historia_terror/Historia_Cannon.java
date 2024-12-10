@@ -10,7 +10,9 @@ public class Historia_Cannon {
 
 		System.out.println("!!:(Que suerte la mia, un accidente sin testigos, voy a ver que puedo sacar de aquí)");
 		System.out.println("Narrador:”!! procede a acercarse a la escena para robar a una víctima sin saber que aun estaba vivo.”\r\n");
-
+		
+		System.out.println("??: *Coge a !! del brazo* “Por favor ayuda a mi hijo a mi mujer te lo ruego yo estoy bien pero por favor ayudalos a ellos.”");
+		System.out.println("!!: *Fija su mirada en ??* (Mierda, sigue vivo aún después del accidente) “Está bien, les ayudaré pero tendrás que darme algo a cambio.”");
 	}
 
 }
