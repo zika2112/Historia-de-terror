@@ -81,6 +81,7 @@ public class Historia_Cannon {
 		System.out.println("José: Yo soy el inigualable José Speedwagon,¿Quién eres tú?\r\n"
 				+ "");
 		System.out.println("Jotaru: “Mi nombre es Jotaru Joestar y vengo a buscar a alguien que me ayude a salvar a mi padre de un terrible veneno.”");
+		System.out.println("José:”Talvez yo pueda ayudarte en eso, puedo enseñarte el uso del chi”envuelve su puño con energía chi que es de color dorado”es una energía que se usa como purificador de males y dolores en el cuerpo, también según los  registros sirve para enfrentarse a los no muertos”");
 	}
 
 }
