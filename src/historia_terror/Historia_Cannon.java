@@ -149,6 +149,7 @@ public class Historia_Cannon {
 		System.out.println("Narrador: una tensión espeluznante se crea en el ambiente mientra Jose al detener a Jotaru y Dario estaban a punto de enfrentar se en su disputa final, observa que dentro del rancho han pasado cosas más perturbadoras de lo que pensamos, pudiendo ver lo cuerpos sin vida de los sirviente que Dario había asesinado ahora cuelgan del techo del rancho goteando sangre sobre josé y hotaru, creando así sospechas dentro de Jose de que Dario se había convertido en un vampiro.");
 		System.out.println("José:” Aquí huele peor que el vómito”\r\n"
 				+ "");
+		System.out.println("Jotaru: “¿Por qué están los cuerpos de los sirvientes sin vida?”");
 	}
 
 }
