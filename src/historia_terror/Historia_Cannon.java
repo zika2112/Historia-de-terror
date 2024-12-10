@@ -141,7 +141,7 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "Dario: “Vaya mira quien esta aquí, si son Jotaru y su patético maestro ” *Dice mientras se levanta del trono lentamente.*\r\n"
 				+ "");
-		
+		System.out.println("Jotaru: “Dario que, ¿Qué has hecho durante estos días que he estado fuera? Este sitio parece más oscuro que de costumbre”");
 	}
 
 }
