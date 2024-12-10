@@ -180,6 +180,10 @@ public class Historia_Cannon {
 				+ "");
 		System.out.println("Jotaru: “Por fin… Después de tanto tiempo, por fin te he derrotado… Dario.”\r\n"
 				+ "");
+		System.out.println("Narrador: “Después de su pelea con Dario Jotaru, quedó en un estado de depresión por la muerte de su padre y por el estado en coma de su mentor. \r\n"
+				+ "3 años más tarde Jotaru conocería a Irina con la cual se casarían y vivirían felices, pero Jotaru seguía con el malestar de no haber podido salvar a su padre ”\r\n"
+				+ "");
+		
 		
 	}
 
