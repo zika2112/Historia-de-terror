@@ -78,6 +78,8 @@ public class Historia_Cannon {
 		System.out.println("???:”Vaya, mira lo que me encuentro por aquí ¿sabes que este barrio no es para alguien de tu clase?”\r\n"
 				+ "");
 		System.out.println("Jotaru:”¿Quién crees que eres para hablar me así de esa manera?”");
+		System.out.println("José: Yo soy el inigualable José Speedwagon,¿Quién eres tú?\r\n"
+				+ "");
 	}
 
 }
