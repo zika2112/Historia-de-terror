@@ -22,6 +22,11 @@ public class Historia_Cannon {
 		System.out.println("!!:“Deja que mi hijo se crie con el tuyo y tenga una vida normal en caso de mi muerte.”");
 		System.out.println("??:”Así será tenlo por hecho, pero antes necesito saber el nombre del hombre que nos ha ayudado para poder reconocer a tu hijo y así cumplir mi promesa.”");
 		System.out.println("Dorian: “Mi nombre es Dorian Brando y mi hijo se llama Dario Brando, ahora ¿Cómo te llamas tú?.”");
+		System.out.println("Jonny:”Mi nombre es Jonny Joestar y recibiré a tu hijo cuando llegue el momento como parte de mi familia.”\r\n"
+				+ "\r\n"
+				+ "Narrador: “15 años más tarde, Dorian Brando había fallecido,no sin antes enviarle un carta a Jonny diciendo le que cumpliera su promesa de cuidar a Dario en su familia”\r\n"
+				+ "\r\n"
+				+ "Narrador:”Como lo prometió Jonny envió a sus criados a buscar a Dario y llevarlo al rancho Joestar donde conocería a Jotaru siendo el inicio de esta macabra historia”\r\n");
 	}
 
 }
