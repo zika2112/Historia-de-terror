@@ -55,6 +55,14 @@ public class Historia_Cannon {
 		System.out.println("Jotaru:”Como te atreves de usar ese apodo para referirse a mi saca esa palabra de tu sucia boca” *Le lanza otra serie de golpes a Dario él logra esquivar los y someter a Jotaru en el piso*.");
 		System.out.println("Dario:*Tiene sometido a Jotaru con una llave de brazo en el suelo y se acerca a su oído para decir unas palabras*”Jotaru que te claro una cosa y solo una cosa, tu y yo somos amigos y mucho menos hermanos, yo solo estoy aquí  para cumplir mi meta de dominar el mundo con la fortuna de tu familia, sin importarme lo que les pase a ustedes en el proceso”*Le realiza una llave de cuello a Jotaru dejando lo inconsciente en el acto*.\r\n"
 				+ "\r\n");
+		System.out.println("Narrador:”Luego de eso Jotaru quedó en la sombra de su nuevo hermano con el único deseo de crecer más fuerte que él para evitar que lleve a cabo un terrorífico plan”.\r\n"
+				+ "\r\n"
+				+ "Narrador:”5 años han pasado desde entonces y la relación entre Dario y Jotaru ha mejorado de manera superficial, ya que por dentro cada uno sabe de las intenciones del otro en lo más profundo de cada uno.”\r\n"
+				+ "\r\n"
+				+ "Narrador:”Por este mismo año del 1900, el padre de Jotaru , Jonny. \r\n"
+				+ "Se encuentra gravemente enfermo casi al borde de la muerte, en una circunstancia algo sospechosa ya que hasta la fecha Jonny había gozado de una buena salud a lo largo de su  vida.”\r\n"
+				);
+		
 	}
 
 }
