@@ -53,6 +53,8 @@ public class Historia_Cannon {
 		System.out.println("Dario:”¿Eso es todo lo que tienes JOJO?”*Dice de forma provocadora y le devuelve el golpe*");
 		System.out.println("Narrador:”Esto hizo que Jotaru se enojara aún más con él ya que JOJO es el apodo que su padre le suele decir por cariño. ”");
 		System.out.println("Jotaru:”Como te atreves de usar ese apodo para referirse a mi saca esa palabra de tu sucia boca” *Le lanza otra serie de golpes a Dario él logra esquivar los y someter a Jotaru en el piso*.");
+		System.out.println("Dario:*Tiene sometido a Jotaru con una llave de brazo en el suelo y se acerca a su oído para decir unas palabras*”Jotaru que te claro una cosa y solo una cosa, tu y yo somos amigos y mucho menos hermanos, yo solo estoy aquí  para cumplir mi meta de dominar el mundo con la fortuna de tu familia, sin importarme lo que les pase a ustedes en el proceso”*Le realiza una llave de cuello a Jotaru dejando lo inconsciente en el acto*.\r\n"
+				+ "\r\n");
 	}
 
 }
