@@ -75,6 +75,8 @@ public class Historia_Cannon {
 				+ "");
 		System.out.println("Jotaru: *Baja de su carruaje en mitad de la calle*”¿Dónde podré encontrar un antídoto para mi padre? Debo hacerlo rápido, no creo que a mi padre le quede mucho de vida.”\r\n"
 				+ "");
+		System.out.println("???:”Vaya, mira lo que me encuentro por aquí ¿sabes que este barrio no es para alguien de tu clase?”\r\n"
+				+ "");
 	}
 
 }
