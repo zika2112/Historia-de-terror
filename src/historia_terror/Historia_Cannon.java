@@ -80,6 +80,7 @@ public class Historia_Cannon {
 		System.out.println("Jotaru:”¿Quién crees que eres para hablar me así de esa manera?”");
 		System.out.println("José: Yo soy el inigualable José Speedwagon,¿Quién eres tú?\r\n"
 				+ "");
+		System.out.println("Jotaru: “Mi nombre es Jotaru Joestar y vengo a buscar a alguien que me ayude a salvar a mi padre de un terrible veneno.”");
 	}
 
 }
