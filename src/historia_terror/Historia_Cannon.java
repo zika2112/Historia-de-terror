@@ -67,6 +67,7 @@ public class Historia_Cannon {
 		System.out.println("Jotaru: (Creo que Dario tiene algo que ver con esto,ya que estaba revisando las viejas pertenencias de mi padre y encontré la nota que el padre de Dario le envió a mi padre, describiendo los mismos síntomas de él ahora mismo. Voy a ver como esta mi padre ya que la verdadera medicina la tengo yo en mis manos ahora mismo y deseo comparar la con la que tendrá mi padre ahora mismo cerca de él.)*Jotaru mira a Dario darle una ‘medicina a Jonny’* “¡DARIO!, ya he descubierto lo que le estas haciendo a mi pobre padre.”");
 		System.out.println("Dario:*Dario le confiesa a Jotaru su acto que el padre está inconsciente por su estado de salud y no puede oír lo que dicen sus hijos* “Llegas un poco tarde JOJO la salud de tu padre ya esta en muy mal estado y después de que el muera tú serás el siguiente y me quedaré con vuestra fortuna y así podré conquistar el mundo.”\r\n"
 				+ "\r\n");
+		System.out.println("Jotaru: “¡Maldito, cómo te atreves a hacerle eso al hombre que te ha estado cuidando durante estos 5 años!” *Dice mientras su enfado aumenta*");
 	}
 
 }
