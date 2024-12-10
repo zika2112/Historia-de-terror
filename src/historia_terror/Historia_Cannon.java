@@ -134,6 +134,7 @@ public class Historia_Cannon {
 				+ "");
 		System.out.println("Jotaru: “Algo va mal aquí, este sitio está noche es más rara que las demás”");
 		System.out.println("José :”¿Qué quieres decir?” *Pregunta con expresión de duda *");
+		System.out.println("Jotaru: “Este rancho pertenecía a una familia la cual desapareció de la noche a la mañana sin rastro alguno y dicen que sus almas siguen vagando por aquí”");
 	}
 
 }
