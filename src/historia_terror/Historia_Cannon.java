@@ -68,6 +68,8 @@ public class Historia_Cannon {
 		System.out.println("Dario:*Dario le confiesa a Jotaru su acto que el padre está inconsciente por su estado de salud y no puede oír lo que dicen sus hijos* “Llegas un poco tarde JOJO la salud de tu padre ya esta en muy mal estado y después de que el muera tú serás el siguiente y me quedaré con vuestra fortuna y así podré conquistar el mundo.”\r\n"
 				+ "\r\n");
 		System.out.println("Jotaru: “¡Maldito, cómo te atreves a hacerle eso al hombre que te ha estado cuidando durante estos 5 años!” *Dice mientras su enfado aumenta*");
+		System.out.println("Dario: “Te lo vuelvo a decir, no me importa lo que os pase a unos insectos como vosotros lo único que quiero es vuestra fortuna para poder dominar el mundo, el método es bastante efectivo, el que mató a mi padre fui yo DARIO.”\r\n"
+				+ "\r\n");
 	}
 
 }
