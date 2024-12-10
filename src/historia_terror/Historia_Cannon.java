@@ -92,6 +92,11 @@ public class Historia_Cannon {
 		System.out.println("José:” Te he dado la habilidad de poseer el chi al abrirse tus meridianos, ahora solo queda enseñarte a manejarlo, empecemos”\r\n"
 				+ "");
 		System.out.println("Narrador:”Mientras Jotaru se encontraba en su entrenamiento con José, Dario se queda con Jonny para poder seguir envenenando y tratar de acelerar su muerte”");
+		System.out.println("Dario:”Maldición Jotaru está buscando una manera de curar a su padre y detener me debo de encontrar una manera de poder superar lo en esto”.\r\n"
+				+ "\r\n"
+				+ "Dario:(Si le doy mas veneno a Jonny morirá y se detectara que fue envenenado y seré sospechoso del acto, no puedo realizar eso, pero si Jotaru consigue la medicina aunque le haya dicho que soy yo el causante de la deplorable salud de Jonny no tiene pruebas y es su palabra contra la mía.Maldición debo de encontrar una manera de salirme de esta con la mía).\r\n"
+				+ "");
+		
 	}
 
 }
