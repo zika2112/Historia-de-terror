@@ -125,6 +125,9 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "");
 		
+		System.out.println("Jotaru: “¿Tu crees? Bueno, no puedo desconfiar de ti si eres el que me ha enseñado el método para salvarlo, de todos modos me gustaría que vinieses conmigo por si mi habilidad no es suficiente.”");
+		
+		
 	}
 
 }
