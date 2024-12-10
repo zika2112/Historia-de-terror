@@ -165,6 +165,7 @@ public class Historia_Cannon {
 		System.out.println("Narrador:”La lucha por sus vidas fue ardua y difícil pero usando alarde de sus poderes de vampiro y que el uso prolongado de la respiración del chi jose pierde la lucha despues de que Dario le proporcionará un golpe mortal a José dejándolo en muy mal estado haciendo que José se vea en la necesidad de pasar la lucha a Jotaru”");
 		System.out.println("Jotaru: “¡JOSÉ! Bien Dario prepárate para la batalla final” *Se va acercando a Dario*\r\n"
 				+ "");
+		System.out.println("Dario: “Ahh, ¿Aún tienes las agallas de acercarte a mi?”");
 		
 	}
 
