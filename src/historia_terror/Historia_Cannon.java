@@ -160,7 +160,8 @@ public class Historia_Cannon {
 				+ "Narrador:”Después de presenciar la muerte de su padre a manos de Dario un odio profundo incapaz de seguir con la última petición de su padre Jotaru está decidido a asesinar a Dario en una última bizarra contienda”.\r\n"
 				+ "");
 		System.out.println("Jotaru:”AHORA ACABARE CONTIGO DARIO PREPÁRATE PARA MORIR EN NOMBRE DE MI PADRE JONNY JOESTAR”*Jotaru se prepara para ir a pelear contra Dario pero es detenido por Jose*");
-		
+		System.out.println("Jose:”Jotaru para por favor el es demaciado para ti, tienes muy poca experiencia como para poder enfrentarte a este ser espeluznante permíteme a mí que lo derrote y elimine de la faz de la tierra a este ser maligno y que no infunda su maldad por el mundo entero”*Se lanza sobre Dario propiciando le un golpe que le ha debilitado en la cara usando la respiración del chi dando inicio a la  batalla entre Jose y Dario*.\r\n"
+				+ "");
 	}
 
 }
