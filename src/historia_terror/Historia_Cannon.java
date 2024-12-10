@@ -120,6 +120,7 @@ public class Historia_Cannon {
 				+ "");
 		System.out.println("Dario: “Ya veo, con que la máscara nos convierte en vampiros, este es el poder perfecto que necesito para dominar el mundo y acabar con Jotaru.”");
 		System.out.println("Narrador: “Volviendo con Jotaru y José”");
+		System.out.println("Jotaru: “Ah ah ah, este entrenamiento es más cansado de lo que parece.”");
 		
 	}
 
