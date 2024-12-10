@@ -20,6 +20,8 @@ public class Historia_Cannon {
 		
 		System.out.println("??: “Muchas gracias por salvar a mi hijo, cómo podré alguna vez pagar este favor.”");
 		System.out.println("!!:“Deja que mi hijo se crie con el tuyo y tenga una vida normal en caso de mi muerte.”");
+		System.out.println("??:”Así será tenlo por hecho, pero antes necesito saber el nombre del hombre que nos ha ayudado para poder reconocer a tu hijo y así cumplir mi promesa.”");
+		
 	}
 
 }
