@@ -89,6 +89,8 @@ public class Historia_Cannon {
 		System.out.println("Narrador: “Mientras estaban en su pelea José se percata de que la respiración de Jotaru empezaba a ser forzada y lo aprovecha para golpearlo con chi en el diafragma.”");
 		System.out.println("José:(Su respiración es bastante forzada)” Bueno JOJO tienes una abertura en la derecha”*con la abertura que tenía Jotaru en la derecha le da un golpe con el dedo en el diafragma viendo como JOJO cae al suelo tosiendo*");
 		System.out.println("Jotaru: *Cough cough* “¿Qué me has hecho?”");
+		System.out.println("José:” Te he dado la habilidad de poseer el chi al abrirse tus meridianos, ahora solo queda enseñarte a manejarlo, empecemos”\r\n"
+				+ "");
 	}
 
 }
