@@ -142,6 +142,7 @@ public class Historia_Cannon {
 				+ "Dario: “Vaya mira quien esta aquí, si son Jotaru y su patético maestro ” *Dice mientras se levanta del trono lentamente.*\r\n"
 				+ "");
 		System.out.println("Jotaru: “Dario que, ¿Qué has hecho durante estos días que he estado fuera? Este sitio parece más oscuro que de costumbre”");
+		System.out.println("Dario: “Nada que a tí te incumba JOJO, solo he estado investigando unas cosas del sótano y debo decirte que allí encontré algo muy interesante, por cierto debes saber que a tu padre le queda muy poco de vida.”");
 	}
 
 }
