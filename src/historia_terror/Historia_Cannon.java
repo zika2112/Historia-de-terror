@@ -128,7 +128,10 @@ public class Historia_Cannon {
 		System.out.println("Jotaru: “¿Tu crees? Bueno, no puedo desconfiar de ti si eres el que me ha enseñado el método para salvarlo, de todos modos me gustaría que vinieses conmigo por si mi habilidad no es suficiente.”");
 		System.out.println("José: “Claro, me parece bien, así podré investigar un poco ese extraño veneno que usó tu hermano en tu padre.”\r\n"
 				+ "");
-		
+		System.out.println("Narrador: “Después de esta pequeña charla entre maestro y alumno cogen un carruaje y se van lo más rápido que pueden al rancho de la familia Joestar sin saber que este podría ser el último día que ven la luz del sol… .”\r\n"
+				+ "\r\n"
+				+ "Narrador: “Jotaru y José llegan al rancho por la noche pero se dan cuenta de que algo raro está pasando, el ambiente parece más lúgubre y tenebroso que las demás noches.”\r\n"
+				+ "");
 		
 		
 	}
