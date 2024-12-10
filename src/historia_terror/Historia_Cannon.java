@@ -62,6 +62,7 @@ public class Historia_Cannon {
 				+ "Narrador:”Por este mismo año del 1900, el padre de Jotaru , Jonny. \r\n"
 				+ "Se encuentra gravemente enfermo casi al borde de la muerte, en una circunstancia algo sospechosa ya que hasta la fecha Jonny había gozado de una buena salud a lo largo de su  vida.”\r\n"
 				);
+		System.out.println("Dario: (No le debe de quedar mucho tiempo al estupido del viejo, ese veneno que le di debería matarlo en pocos días). *Dice mientras le da una ‘medicina’ a Jonny*\r\n");
 		
 	}
 
