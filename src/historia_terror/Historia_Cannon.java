@@ -84,6 +84,7 @@ public class Historia_Cannon {
 		System.out.println("José:”Talvez yo pueda ayudarte en eso, puedo enseñarte el uso del chi”envuelve su puño con energía chi que es de color dorado”es una energía que se usa como purificador de males y dolores en el cuerpo, también según los  registros sirve para enfrentarse a los no muertos”");
 		System.out.println("Jotaru: (No me causa buena espina este tío y el método que me propone tampoco es que sea muy fiable, pero parece ser la única forma de salvar a mi padre.) “Yare Yare Daze. Esta bien, dejare que me enseñes el método del que hablas”\r\n"
 				+ "");
+		System.out.println("José:”Vale primero tengamos un sparring para ver cómo de bueno eres peleando”*se posiciona en una pose de boxeo*”Ponte en posición JOJO empezamos ahora”");
 	}
 
 }
