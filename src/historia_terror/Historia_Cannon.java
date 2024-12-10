@@ -111,6 +111,11 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "Dario: “Bien, parece que aquí hay uno.”*Dario coje por sorpresa al sirviente y le pone la máscara y lo amordaza se va en busca de otro dentro del rancho*\r\n"
 				+ "");
+		System.out.println("Narrador:”Dario acecha el rancho sin salir de él, usando al sirviente con la máscara puesta de carnada para atraer a otro mediante los gritos de desesperación del primer sirviente, haciendo que uno venga dentro del rancho y Dario lo detecte.”\r\n"
+				+ "\r\n"
+				+ "Narrador:”Cuando el sirviente va a socorrer al primer sirviente amordazado siente como una silueta oscura está detrás de él.”\r\n"
+				+ "");
+		
 	}
 
 }
