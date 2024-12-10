@@ -150,6 +150,16 @@ public class Historia_Cannon {
 		System.out.println("José:” Aquí huele peor que el vómito”\r\n"
 				+ "");
 		System.out.println("Jotaru: “¿Por qué están los cuerpos de los sirvientes sin vida?”");
+		System.out.println("Dario: “Durante el tiempo que estuve fuera investigue una máscara que había en el sótano como ya te había dicho, esa máscara tiene la capacidad de convertir a los humanos en vampiros y gracias a ese poder… ¡TE MATARTE DE UNA VEZ POR TODAS JOJO!*Dario se prepara para realizar un ataque mortal hacia su oponente*”\r\n"
+				+ "\r\n"
+				+ "Narrador: “Así Dario se lanza a por Jotaru pero de repente Jonny se pone en medio del ataque recibiendo un golpe mortal.”\r\n"
+				+ "\r\n"
+				+ "Jonny: “Arggggg ,oh my good, ah ah ah , jotaru por favor perdona a tu hermano, ha crecido en una zona pobre y la situación de su niñez le ha hecho hacer estos actos deplorables,\r\n"
+				+ "haya la manera de perdonar lo después de mi… de mi… muerte… ahhh.*suspira su último aliento para luego fallecer en los brazos de su hijo*”\r\n"
+				+ "\r\n"
+				+ "Narrador:”Después de presenciar la muerte de su padre a manos de Dario un odio profundo incapaz de seguir con la última petición de su padre Jotaru está decidido a asesinar a Dario en una última bizarra contienda”.\r\n"
+				+ "");
+		
 	}
 
 }
