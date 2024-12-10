@@ -99,6 +99,7 @@ public class Historia_Cannon {
 		System.out.println("Narrador:”En la desesperación de Dario por encontrar una manera de oponerse a Jotaru recuerda que Jonny siempre les prohibió entrar al sótano del rancho porque era donde la madre de hotaru realizaba sus investigaciones como arqueóloga y poseía una colección de objetos antiguos supuestamente malditos que encontró a lo largo del mundo por su trabajo”.\r\n"
 				+ "");
 		System.out.println("Dario:”No tengo más opción que buscar algo en ese sótano viejo y mugroso, no me gusta nada esta parte del rancho, pero si quiero encontrar una manera de vencer a Jotaru puede que la encuentre ahí abajo”.");
+		System.out.println("Narrador: “De repente Dario se da cuenta de que hay unos cajones en una parte del sótano y decide mirar allí.”");
 	}
 
 }
