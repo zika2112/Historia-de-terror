@@ -118,6 +118,8 @@ public class Historia_Cannon {
 		System.out.println("Dario:”Has caído en la trampa del sirviente ingenuo ¡¡AHORA MUEREEE!!”*Dario le arranca la cabeza al sirviente que ha caído en la trampa de un solo golpe usando su nueva fuerza adquirida y haciendo que la sangre de su víctima caiga sobre la máscara que tiene el rehén puesta encima*");
 		System.out.println("Narrador:”El sirviente así como Dario se lleno de una fuerza y vitalidad renovada pero con una sed de sangre más fuerte que la que presentaba Dario intentando atacar lo en el acto, pero Dario usando sus reflejos mejorados golpea al sirviente lanzándo lo por la ventana atravesandola, fuera de la casa en el rancho el sirviente empieza a quemar se con la luz del sol que no había tocado a Darío ya que se encontraba todo este tiempo bajo techo,llevando a Dario a una unica conclusion.”\r\n"
 				+ "");
+		System.out.println("Dario: “Ya veo, con que la máscara nos convierte en vampiros, este es el poder perfecto que necesito para dominar el mundo y acabar con Jotaru.”");
+		
 		
 	}
 
