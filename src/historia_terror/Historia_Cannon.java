@@ -73,6 +73,8 @@ public class Historia_Cannon {
 		System.out.println("Narrador: “Una vez que Dario le confiesa esta terrible verdad, Jotaru decide ir en busca de alguien que le puede dar un antídoto para su padre y así poder ayudarlo.\r\n"
 				+ "En su búsqueda viaja al barrio más peligroso de la ciudad de Londres”\r\n"
 				+ "");
+		System.out.println("Jotaru: *Baja de su carruaje en mitad de la calle*”¿Dónde podré encontrar un antídoto para mi padre? Debo hacerlo rápido, no creo que a mi padre le quede mucho de vida.”\r\n"
+				+ "");
 	}
 
 }
