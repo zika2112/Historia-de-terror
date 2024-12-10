@@ -96,7 +96,8 @@ public class Historia_Cannon {
 				+ "\r\n"
 				+ "Dario:(Si le doy mas veneno a Jonny morirá y se detectara que fue envenenado y seré sospechoso del acto, no puedo realizar eso, pero si Jotaru consigue la medicina aunque le haya dicho que soy yo el causante de la deplorable salud de Jonny no tiene pruebas y es su palabra contra la mía.Maldición debo de encontrar una manera de salirme de esta con la mía).\r\n"
 				+ "");
-		
+		System.out.println("Narrador:”En la desesperación de Dario por encontrar una manera de oponerse a Jotaru recuerda que Jonny siempre les prohibió entrar al sótano del rancho porque era donde la madre de hotaru realizaba sus investigaciones como arqueóloga y poseía una colección de objetos antiguos supuestamente malditos que encontró a lo largo del mundo por su trabajo”.\r\n"
+				+ "");
 	}
 
 }
